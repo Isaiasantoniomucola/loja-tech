@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Loja Tech",
+    "slug": "loja-tech",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": { "package": "com.lojatech.app" },
+    "ios": { "bundleIdentifier": "com.lojatech.app" }
+  }
+}
